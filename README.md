@@ -58,7 +58,7 @@ For a detailed presentation and storytelling video, please access the following 
 
 ## Presentation and Storytelling
 
-- **PowerBI Link**: [Accenture SocialBuzz PowerBI Dashboard]([[link_here](https://app.powerbi.com/links/gBp65-p7Mn?ctid=cee4efe2-4f65-48ae-9e6f-058f63fba3ce&pbi_source=linkShare)]
+- **PowerBI Link**: [Accenture SocialBuzz PowerBI Dashboard][Presentation File](path/to/Data%20Analytics%20template%20-%20Task%203_final%20%5BAutosaved%5D.pptx)
   
   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/38ea1de2-dc5b-433c-9a40-936954e40793" alt="Image Description" width="450"><img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/24b33b02-0bbf-404e-a1f2-f89ff82e98ea" alt="Image Description" width="450">
 
