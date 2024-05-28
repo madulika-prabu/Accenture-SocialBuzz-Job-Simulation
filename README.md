@@ -58,11 +58,11 @@ For a detailed presentation and storytelling video, please access the following 
 
 ## Presentation and Storytelling
 
-- **PowerBI Link**: [Accenture SocialBuzz PowerBI Dashboard][Presentation File](https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/blob/20b01940515a5f5443e502ce320f5c5fb1ac938e/Data%20Analytics%20template%20-%20Task%203_final%20%5BAutosaved%5D.pptx)
+ **PowerBI Link**: [Accenture SocialBuzz PowerBI Dashboard][Presentation File](https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/blob/20b01940515a5f5443e502ce320f5c5fb1ac938e/Data%20Analytics%20template%20-%20Task%203_final%20%5BAutosaved%5D.pptx)
   
   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/38ea1de2-dc5b-433c-9a40-936954e40793" alt="Image Description" width="450"><img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/24b33b02-0bbf-404e-a1f2-f89ff82e98ea" alt="Image Description" width="450">
 
-###**DAX formulas used in POWERBI**
+### **DAX formulas used in POWERBI**
     
          1. To find total no of records :
                     TotalRecords = COUNTROWS('final dataset to make visual')
@@ -109,11 +109,11 @@ For a detailed presentation and storytelling video, please access the following 
 
 
 
-- **Presentation File**: [Accenture_SocialBuzz_Presentation.pptx](Data Analytics template - Task 3_final [Autosaved].pptx)
+## **Presentation File**: [Accenture_SocialBuzz_Presentation.pptx](Data Analytics template - Task 3_final [Autosaved].pptx)
   
   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/c32dc23e-4692-4fe6-8fa2-5458d1a191e3" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/f919c55d-d08d-42c8-83e7-6fecdd1a17e8" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/f663b538-4223-431a-86db-cd2d8c59d53e" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/00ec02ff-024b-413f-b17b-cd8b91a37f37" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/2d00cbb7-f5ff-4843-a8b9-cac3952b3a9a" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/9c510013-bea1-481b-9a89-5a2ce05dbfa7" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/095e6b2c-404e-43b5-a438-91056516a4ac" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/3f636e02-c612-4991-9bc1-e7f0bae5c928" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/711d5557-401e-43a2-97d6-ca4846a5fc5a" alt="Image Description" width="300">  <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/6ec36e89-e29f-4073-9734-0858668c52df" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/94f57fef-dd7a-4e81-99b5-c6ea5ce9d64a" alt="Image Description" width="300">   <img src="https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/071e165f-f3d0-4a9f-80b3-14cc4365f356" alt="Image Description" width="300">
 
-- **Storytelling Video**: [![Watch the video](https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/c03f5603-6676-4233-8deb-5fbd37b56c25)](video_url)
+## **Storytelling Video**: [![Watch the video](https://github.com/madulika-prabu/Accenture-SocialBuzz-Job-Simulation/assets/131234604/c03f5603-6676-4233-8deb-5fbd37b56c25)](video_url)
 
 Caption of this video content :
 
